@@ -21,7 +21,8 @@ public class ProyectoPrueba {
         //Commit de Pablo Ruiz 
         
         // May the 4th be with you - Adrian Gonzalez
-        //est es un cambio irrelvante 
+        //est es un cambio irrelvante -- Pablo Ruiz 
+        //Comentario2 --- Uxia Cea Vila
     }
     
 }
